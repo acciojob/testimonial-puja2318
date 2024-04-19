@@ -1,10 +1,15 @@
 /*  your css code here. If applicable */
-#Main container{
-	padding:hold the testimonals;
-	Background-color:#f5f5f5;
+.main-container {
+    padding: Hold the testimonials ;
+	background-color:#f5f5f5;/* add your styles for the main container here */
 }
-#testimonal{
-	padding:
-		Background-color:
+
+.testimonial {
+  padding:;
+	border: Individual testimonial box;
+	background-color:#f5f5f5;/* add your styles for the testimonial divs here */
 }
-#text:
+
+.author {
+    /* add your styles for the author names here */
+}
